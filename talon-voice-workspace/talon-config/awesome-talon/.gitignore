@@ -1,0 +1,4 @@
+ideas.json
+.playground/cache/
+.vercel
+.env*.local
